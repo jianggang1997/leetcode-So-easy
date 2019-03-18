@@ -1,4 +1,4 @@
-package com.learn.arithemtic.simple;
+package com.learn.arithemtic.middle;
 
 import java.util.ArrayList;
 import java.util.List;
